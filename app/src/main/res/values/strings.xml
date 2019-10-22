@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="my_name">Tan Hao Yang</string>
+    <string name="profile_pic">Profile Picture</string>
+    <string name="profile_desc">
+        Education:
+        \n\tSJKC Sin Hwa, Parit Buntar, Perak\n
+        \n\tSMJK Krian, Parit Buntar, Perak\n
+        \n\tTAR UC, Kuala Lumpur\n
+        \nWorking Experiences\n
+        \n\tAsics\n
+        \n\tPhotographer\n
+        \n\tBillion Market\n
+        \n\tBesta\n
+        \n\tNike Concept Store\n
+    </string>
+</resources>
